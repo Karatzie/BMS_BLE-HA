@@ -46,6 +46,10 @@
       "local_name": "libatt*",
       "manufacturer_id": 21320
     }
+    {
+      "local_name": "*PFLAC,R,RADIOID*",
+      "manufacturer_id": 21320
+    }
   ],
   "codeowners": ["@patman15"],
   "config_flow": true,
